@@ -5,8 +5,8 @@ This is my work account @ Microsoft!
 <!---
 👀 I’m interested in ...
 🌱 I’m currently learning ...
-💞️ I’m looking to collaborate on ...
 --->
+💞️ My personal GitHub account: @abpham
 📫 How to reach me: abigailpham@microsoft.com
 
 <!---
